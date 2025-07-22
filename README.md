@@ -1,4 +1,4 @@
-# TIntelliTraffic: Signal Violation Detection System
+# IntelliTraffic: Signal Violation Detection System
 
 <br>
 
